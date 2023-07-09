@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+                "file": "Lyrics/Diagrams/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+                "file": "Lyrics/Diagrams/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+                "file": "Lyrics/Diagrams/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md"
+                "file": "Lyrics/Diagrams/README.md"
               }
             }
           },
@@ -193,46 +193,46 @@
   },
   "active": "c2f2896b7a9974eb",
   "lastOpenFiles": [
-    "Handcrafts/codesandboxes/showcase.md",
+    "Lyrics/Infra/README.md",
+    "Lyrics/Diagrams/README.md",
+    "Lyrics/Spells/README.md",
+    "Lyrics/Tapes/README.md",
+    "Lyrics/Docs/MY/README.md",
+    "Lyrics/Infra",
+    "Lyrics/새 폴더",
+    "Lyrics/Tapes",
+    "Lyrics/Diagrams",
+    "Lyrics/Spells",
+    "Lyrics/Snippets/MY/README.md",
+    "Lyrics/Snippets/Official/README.md",
+    "Lyrics/Snippets/Community/README.md",
+    "Lyrics/Snippets/Official",
+    "Lyrics/Snippets/README.md",
+    "Lyrics/Snippets/MY",
+    "Lyrics/Snippets/Community",
+    "Lyrics/Snippets",
+    "Lyrics/Docs - 복사본/MY/README.md",
+    "Lyrics/Docs - 복사본/Official/README.md",
+    "Lyrics/Docs - 복사본/Community/README.md",
+    "Lyrics/Docs - 복사본/README.md",
+    "Lyrics/Docs - 복사본/MY",
+    "Lyrics/Docs/Community/README.md",
+    "Lyrics/Docs/Official/README.md",
+    "Lyrics/Docs/README.md",
+    "Lyrics/README.md",
+    "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/README.md",
+    "Handcrafts/codesandboxes/pkm/Gitbook/react-three/README.md",
+    "Handcrafts/codesandboxes/pkm/README.md",
     "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+    "Handcrafts/codesandboxes/showcase.md",
     "Handcrafts/codesandboxes/pkm.md",
-    "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals",
-    "Handcrafts/codesandboxes/pkm/Gitbook/react-three",
-    "Handcrafts/codesandboxes/pkm/Gitbook",
-    "Handcrafts/codesandboxes/pkm/Untitled.md",
-    "Handcrafts/codesandboxes/pkm",
     "Handcrafts/stackblitz/3d.md",
     "Handcrafts/stackblitz/css-animations.md",
     "Handcrafts/stackblitz/atoms.md",
-    "Trowell/channels/tech-blog-posts.md",
-    "📋 Note Templates",
-    "Trowell/channels/peoples.md",
-    "Trowell/channels/companies.md",
-    "Trowell/channels/marketing.md",
-    "_index.md",
-    "📋 Note Templates/🚠Process.md",
-    "📋 Note Templates/🎬Behavior.md",
-    "📋 Note Templates/💭Thought.md",
-    "📋 Note Templates/🦨Situation.md",
-    "📋 Note Templates/😎Feeling.md",
-    "Tree/🚪Tree.md",
-    "Seed/🚪Seed.md",
-    "Fruit/🚪Fruit.md",
-    "Flower/🚪Flower.md",
-    "Seed/CSS/📚Resources.md",
-    "Seed/CSS/🚪CSS.md",
-    "Seed/CSS",
-    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Entity Relationship diagram.md",
-    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 User journey.md",
-    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Mindmap.md",
     "📦assets/_index 2023-07-01 00.43.44.excalidraw.dark.svg",
     "📦assets/_index 2023-07-01 00.43.44.excalidraw.light.svg",
     "📦assets/_index 2023-01-13 01.50.35.excalidraw.dark.svg",
     "📦assets/_index 2023-01-13 01.50.35.excalidraw.light.svg",
-    "Flower",
-    "Fruit",
-    "Fruits",
-    "Tree",
     "Private/Develop/Seeds/Grocery/📦assets/Pasted image 20221017211243.png",
     "Private/Banners/2023/03/2023 March 14 Banner.png",
     "Private/Banners/2023/04/2023 April 30 Banner.png",
