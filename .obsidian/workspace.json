@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "688eb21a747cd38a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf2af3cd8e1a9d07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2f2896b7a9974eb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "415b314476676799",
+    "type": "split",
+    "children": [
+      {
+        "id": "00f68eae0d8a5e8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed3ae3907a45b75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd7396851c87811d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51796fc37ebc680b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3dbdc909114ef603",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9871f8f698df97de",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7348f3bf3ab84f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58eb37721af95c9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "359bed65e7c0f22c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b21ae332094966ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "580333fcd5396ffb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dd1966cdd4d614a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "df3dfc2be358a686",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6fec753ef132acfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a61587006a0716",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c2f2896b7a9974eb",
+  "lastOpenFiles": [
+    "_index.md",
+    "📋 Note Templates/🚠Process.md",
+    "📋 Note Templates/🎬Behavior.md",
+    "📋 Note Templates/💭Thought.md",
+    "📋 Note Templates/🦨Situation.md",
+    "📋 Note Templates/😎Feeling.md",
+    "Tree/🚪Tree.md",
+    "Seed/🚪Seed.md",
+    "Fruit/🚪Fruit.md",
+    "Flower/🚪Flower.md",
+    "Seed/CSS/📚Resources.md",
+    "Seed/CSS/🚪CSS.md",
+    "Seed/CSS",
+    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Entity Relationship diagram.md",
+    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 User journey.md",
+    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Mindmap.md",
+    "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Flowchart.md",
+    "📋 Note Templates/(Notion)✨ Produce/✨ Share.md",
+    "📋 Note Templates/✨ Produce/Implement.md",
+    "📋 Note Templates/✨ Produce/Feedback.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Report.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Plan.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Improve.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Execute.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Evaluate.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Decision Make.md",
+    "📋 Note Templates/(Moonlight)💼 tasks/💼 Analysis.md",
+    "📦assets/_index 2023-07-01 00.43.44.excalidraw.dark.svg",
+    "📦assets/_index 2023-07-01 00.43.44.excalidraw.light.svg",
+    "📦assets/_index 2023-01-13 01.50.35.excalidraw.dark.svg",
+    "📦assets/_index 2023-01-13 01.50.35.excalidraw.light.svg",
+    "Flower",
+    "Fruit",
+    "Fruits",
+    "Tree",
+    "Seed",
+    "Templates/To design",
+    "Templates/Documents/Untitled",
+    "📋 Note Templates/(Moonlight)💼 tasks",
+    "📋 Note Templates/📚 Learning materials - PARA, raindrop",
+    "Private/Develop/Seeds/Grocery/📦assets/Pasted image 20221017211243.png",
+    "Private/Banners/2023/03/2023 March 14 Banner.png",
+    "Private/Banners/2023/04/2023 April 30 Banner.png",
+    "Private/Banners/2023/04/2023 April 29 Banner.png",
+    "Private/Banners/2023/04/2023 April 28 Banner.png",
+    "Private/Banners/2023/04/2023 April 27 Banner.png"
+  ]
+}
