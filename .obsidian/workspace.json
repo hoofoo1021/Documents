@@ -11,8 +11,12 @@
             "id": "c2f2896b7a9974eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md"
+              }
             }
           },
           {
@@ -168,6 +176,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-raindrop-highlights:Sync your Raindrop highlights": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,12 +187,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c2f2896b7a9974eb",
   "lastOpenFiles": [
+    "Handcrafts/codesandboxes/pkm.md",
+    "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals/three-fundamental-example1.md",
+    "Handcrafts/codesandboxes/pkm/Gitbook/react-three/Fundamentals",
+    "Handcrafts/codesandboxes/pkm/Gitbook/react-three",
+    "Handcrafts/codesandboxes/pkm/Gitbook",
+    "Handcrafts/codesandboxes/pkm/Untitled.md",
+    "Handcrafts/codesandboxes/pkm",
+    "Handcrafts/stackblitz/3d.md",
+    "Handcrafts/stackblitz/css-animations.md",
+    "Handcrafts/stackblitz/atoms.md",
+    "Trowell/channels/tech-blog-posts.md",
+    "📋 Note Templates",
+    "Trowell/channels/peoples.md",
+    "Trowell/channels/companies.md",
+    "Trowell/channels/marketing.md",
     "_index.md",
     "📋 Note Templates/🚠Process.md",
     "📋 Note Templates/🎬Behavior.md",
@@ -200,16 +225,6 @@
     "📋 Note Templates/(Moonlight)📐 Diagrams/📐 User journey.md",
     "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Mindmap.md",
     "📋 Note Templates/(Moonlight)📐 Diagrams/📐 Flowchart.md",
-    "📋 Note Templates/(Notion)✨ Produce/✨ Share.md",
-    "📋 Note Templates/✨ Produce/Implement.md",
-    "📋 Note Templates/✨ Produce/Feedback.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Report.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Plan.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Improve.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Execute.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Evaluate.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Decision Make.md",
-    "📋 Note Templates/(Moonlight)💼 tasks/💼 Analysis.md",
     "📦assets/_index 2023-07-01 00.43.44.excalidraw.dark.svg",
     "📦assets/_index 2023-07-01 00.43.44.excalidraw.light.svg",
     "📦assets/_index 2023-01-13 01.50.35.excalidraw.dark.svg",
@@ -218,11 +233,6 @@
     "Fruit",
     "Fruits",
     "Tree",
-    "Seed",
-    "Templates/To design",
-    "Templates/Documents/Untitled",
-    "📋 Note Templates/(Moonlight)💼 tasks",
-    "📋 Note Templates/📚 Learning materials - PARA, raindrop",
     "Private/Develop/Seeds/Grocery/📦assets/Pasted image 20221017211243.png",
     "Private/Banners/2023/03/2023 March 14 Banner.png",
     "Private/Banners/2023/04/2023 April 30 Banner.png",
