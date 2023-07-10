@@ -3,8 +3,8 @@
 ## React-three
 
 * [Fundamentals](README.md)
-  * [Backgrounds](react-three/fundamentals/backgrounds.md)
-  * [Furthermore](react-three/fundamentals/furthermore.md)
+  * [Backgrounds](react-three/readme/backgrounds.md)
+  * [Furthermore](react-three/readme/furthermore.md)
 * [Getting Started](react-three/getting-started/README.md)
   * [Introduction](react-three/getting-started/introduction.md)
   * [Installation](react-three/getting-started/installation.md)
