@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Replit](README.md)
-  * [Scripts](replit/scripts.md)
-  * [Data manipulation](replit/data-manipulation.md)
-  * [Utilities](replit/utilities.md)
+  * [Scripts](readme/scripts.md)
+  * [Data manipulation](readme/data-manipulation.md)
+  * [Utilities](readme/utilities.md)
 * [Stackblitz](stackblitz/README.md)
   * [Atoms](stackblitz/atoms.md)
   * [Molecules](stackblitz/molecules.md)
