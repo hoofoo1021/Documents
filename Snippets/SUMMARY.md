@@ -19,7 +19,19 @@
 
 ## css
 
-* [Page 1](css/page-1.md)
+* [Animation](css/animation/README.md)
+  * [Page 1](css/animation/page-1.md)
+  * [Page 2](css/animation/page-2.md)
+* [Interactivity](css/interactivity/README.md)
+  * [Page 7](css/interactivity/page-7.md)
+  * [Page 8](css/interactivity/page-8.md)
+* [Layout](css/layout/README.md)
+  * [Page 9](css/layout/page-9.md)
+  * [Page 10](css/layout/page-10.md)
+* [Visual](css/visual/README.md)
+  * [Page 11](css/visual/page-11.md)
+  * [Page 12](css/visual/page-12.md)
+* [Webdev](css/webdev.md)
 
 ## javascript
 
