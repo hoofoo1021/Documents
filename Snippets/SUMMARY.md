@@ -19,7 +19,7 @@
 
 ## css
 
-* [Animation](css/animation/README.md)
+* [Animation](css/page-1.md)
   * [Page 1](css/animation/page-1.md)
   * [Page 2](css/animation/page-2.md)
 * [Interactivity](css/interactivity/README.md)
@@ -31,7 +31,9 @@
 * [Visual](css/visual/README.md)
   * [Page 11](css/visual/page-11.md)
   * [Page 12](css/visual/page-12.md)
-* [Webdev](css/webdev.md)
+* [Webdev](css/webdev/README.md)
+  * [Page 13](css/webdev/page-13.md)
+  * [Page 14](css/webdev/page-14.md)
 
 ## javascript
 
